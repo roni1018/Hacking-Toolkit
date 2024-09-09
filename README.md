@@ -47,6 +47,10 @@ https://www.invicti.com/plp/invicti-scanner/?utm_term=invicti%20scanner&utm_camp
 
 Invicti is a web application security scanner that is capable of finding vulnerabilities in services or web applications, SQL Injections, and XSS. Its price range starts from $4,500 to $26,600. Additionally, it is open source. 
 
+# Veronica Pietrewicz
 
+https://www.crowdstrike.com/platform/?utm_campaign=brand&utm_content=crwd-brand-amer-us-en-psp-x-trl-x-tct-x_x_x_core-x&utm_medium=sem&utm_source=goog&utm_term=crowdstrike&cq_cmp=19616633032&cq_plac=&gad_source=1&gclid=CjwKCAjw59q2BhBOEiwAKc0ijXHQaHlxNUezTa8UZF_AMkUEBru-CZ6D_IJPFRTp4C1XmlKaPJgscRoCno0QAvD_BwE
+
+Works by offering protection solutions to work against and prevent cyber-attacks. It also uses the power of AI to detect any possible attacks or intrusions. Not free, pricing begins at $59.99/year.
 
 main
