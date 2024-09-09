@@ -1,6 +1,9 @@
 # Hacking-Toolkit
 main
 The ultimate list of hacking tools available for students and professionals. 
+patch-1
+netcat https://netcat.sourceforge.net
+=======
 
 https://github.com/BloodHoundAD/BloodHound
 
@@ -46,3 +49,4 @@ Invicti is a web application security scanner that is capable of finding vulnera
 
 
 
+main
