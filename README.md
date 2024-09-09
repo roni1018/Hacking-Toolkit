@@ -1,6 +1,4 @@
 # Hacking-Toolkit
-The ultimate list of hacking tools available for students and professionals. 
+https://www.metasploit.com/ 
 
-https://www.openstego.com/
-
-Helps to hide data in other files. Could be used for encrypting messages. Symmetric encryption. 
+Allows the take over of a target computer system and allow for remote control over it.
